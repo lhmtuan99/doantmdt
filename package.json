@@ -20,7 +20,7 @@
     "dotenv": "^8.2.0",
     "ejs": "^3.0.2",
     "email-existence": "^0.1.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.1",
     "fast-csv": "^4.3.0",
     "kickbox": "^2.0.4",
